@@ -1,1 +1,7 @@
 ilk not
+
+git config --global user.name "adminTest"
+(bu kod ile git kullanıcı adını adminTest yapmış olduk)
+
+git config --global user.email "test@gmail.com"
+(bu kod ile git kullanıcı mailini test@gmail.com yapmış olduk)
